@@ -1,0 +1,7 @@
+litellm
+langchain 
+langchain-community 
+langchain-groq 
+python-dotenv
+fastapi
+litellm[proxy]
